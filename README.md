@@ -56,8 +56,6 @@ python main.py
 
 Contributions to enhance the functionality or efficiency of this project are welcome. Please follow the standard procedures for contributing to a GitHub project.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 
